@@ -1,0 +1,15 @@
+.link-top {
+    text-align: right;
+}
+body {
+    background-image: url("img/pattern.jpg");
+}
+.pt-3 {
+    color: white;
+}
+label {
+    color: white;
+}
+.nav-link {
+    color: black;
+}
